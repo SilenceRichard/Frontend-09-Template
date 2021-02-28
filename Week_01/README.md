@@ -1,4 +1,7 @@
 学习笔记
+
+> 因为准备面试的原因，只来得及写了第一版的tictactoe， 后续会补上
+
 # TicTacToe
 
 1. 棋盘表示
@@ -15,4 +18,3 @@
   - willWin 判断x或o即将获胜
   - cloneDeep 克隆parttern数组
 
-5. 添加一个完美的ai
